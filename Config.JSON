@@ -1,11 +1,11 @@
 [
   {
-    "SheetName": "EmpDetail" 
+    "SheetName": "Emp" 
   },
   {
-    "SheetName": "Sports" 
+    "SheetName": "staff" 
   },
   {
-    "SheetName": "Dept" 
+    "SheetName": "Dep" 
   }
 ]
